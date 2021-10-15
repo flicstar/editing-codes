@@ -26,7 +26,7 @@ This takes a bit of getting used to. It can take a while at first, but once you 
 
 You can link to the explainer page for each code as you use it, or you can tell the author you're editing using these [codes](codes.md) and share link to the full list.
 
-😃 Include a `++` after the code to acknowledge strengths. We call this the [positivity pass](positivity-pass.md).
+😃 Include a `++` along with the code to acknowledge strengths. We call this the [positivity pass](positivity-pass.md).
 
 ## Examples
 
