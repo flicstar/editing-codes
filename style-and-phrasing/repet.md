@@ -1,6 +1,6 @@
 # Code: REPET
 
-> **REPET:** Avoid careless repetition — of words, phrases, sections, or concepts. 
+> Avoid careless repetition — of words, phrases, sections, or concepts. 
 
 The REPET code falls into the Style and Phrasing [phase](https://flicstar.com/editing-guide/phases/) of the editing process. 
 
@@ -21,10 +21,6 @@ and it’s not often that we find a good reason to use repetition that way in ou
 Most word-processing editors these days will flag repeated words, so as a writer, you can spot the obvious ones. A handy tip can be to read your 
 writing out loud; this can help you identify repetition. When you notice repetition, it might be a good prompt for you to find a quote to support 
 your argument instead, or perhaps use a metaphor to add color.
-
-Liz, one of our Communication Consultants, says, “As a writer, I think about REPET usually at the phase where I'm self-editing. Sometimes you do 
-need to repeat yourself like how you might be saying a similar thing in your introductory paragraph as your closing paragraph. But you should always 
-be looking for variants and how you say it.”
 
 ### As an editor, what should I look out for?
 
@@ -49,4 +45,4 @@ of respecting readers’ time and intelligence.
 
 * Listen to the [REPET episode](https://openstrategypartners.com/repet-the-osp-editorial-code-podcast-ep-04) of the OSP podcast: [Communicate, Connect, Grow](https://www.youtube.com/channel/UCK1FgQnuVwknf_CWenjZSMw).
 * Check out the full list of [editing codes](codes.md)
-* Learn how to use this code when you're editing with the [Editing codes quick start quide](https://openstrategypartners.com/editing-codes-quick-start-guide)
+* Learn how to use this code when you're editing with the [How-To Guide](guide.md)
