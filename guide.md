@@ -22,16 +22,18 @@ This takes a bit of getting used to. It can take a while at first, but once you 
 ### Step Two: Include the code in your feedback
 
 1. Preface your editing feedback with the code. 
-2. Link to the explainer page for that code, or the full list of [codes](codes.md).
-3. Explain your comments or suggestions. 
+2. Explain your comments or suggestions. You don't need to explain the writing principle in your feedback, because this is encapsulated by the semantic editing code. 
 
-You don't need to explain the writing principle, because this is encapsulated by the semantic editing code. 
+You can link to the explainer page for each code as you use it, or you can tell the author you're editing using these [codes](codes.md) and share link to the full list.
 
 ## Examples
 
-In GitHub, use the code followed by a colon:
+### Link each code
 
 > [QUOTE](flow-and-sections/quote.md): Consider adding a quote here to support to your point.
 
-In Google Docs, use the code then start your feedback on a new line:
+
+### Link to the full list
+
+> Hey! Loved your work on this case study. I used these [codes](codes.md) while I was editing. Let me know if you have any questions.
 
