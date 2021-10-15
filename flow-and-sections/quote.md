@@ -1,8 +1,8 @@
 # Code: QUOTE
 
-> **QUOTE:** Quote your subject-matter expert directly wherever possible. Quotes also help add interest.
+> Quote your subject-matter expert directly wherever possible. Quotes also help add interest.
 
-The QUOTE code falls into the Flow and Sections phase of the editing process. 
+The QUOTE code falls into the Flow and Sections [phase](../phases.md) of the editing process. 
 
 ## The story behind the code
 
@@ -33,7 +33,7 @@ makes sense to introduce the speaker of the quote with their full name and their
 When looking at quotes as an editor, the focus is generally on grammar and punctuation. That means referring to the house style guide for decisions about smart 
 (aka “curly”) quotation marks and whether punctuation lies inside or outside the quotation marks. 
 
-As an editor, you’re constantly scanning for tight writing. That means a quote has to provide evidence or support a point the writer is making: decorative quotes are non-essential. This also ties in nicely with another of our favorite editing codes: [CRISP](https://flicstar.com/editing-guide/style-and-phrasing/crisp/).
+As an editor, you’re constantly scanning for tight writing. That means a quote has to provide evidence or support a point the writer is making: decorative quotes are non-essential. This also ties in nicely with another of our favorite editing codes: [CRISP](../style-and-phrasing/crisp/).
 
 ### As a reader, what’s in it for me?
 
@@ -51,5 +51,5 @@ Sometimes case studies and blog posts can read a bit … dry. Quotes can inject 
 ## Find out more
 
 * Listen to the [QUOTE episode](https://openstrategypartners.com/quote-the-osp-editorial-code-podcast-ep3) of the OSP podcast: [Communicate, Connect, Grow](https://www.youtube.com/channel/UCK1FgQnuVwknf_CWenjZSMw).
-* Check out the full list of [editing codes](codes.md)
-* Learn how to use this code when you're editing with the [Editing codes quick start quide](https://openstrategypartners.com/editing-codes-quick-start-guide)
+* Check out the full list of [editing codes](../codes.md)
+* Learn how to use this code when you're editing with the [How-To Guide](../guide.md)
