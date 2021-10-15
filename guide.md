@@ -26,14 +26,18 @@ This takes a bit of getting used to. It can take a while at first, but once you 
 
 You can link to the explainer page for each code as you use it, or you can tell the author you're editing using these [codes](codes.md) and share link to the full list.
 
+😃 Include a `++` after the code to acknowledge strengths. We call this the [positivity pass](positivity-pass.md).
+
 ## Examples
 
 ### Link each code
 
 > [QUOTE](flow-and-sections/quote.md): Consider adding a quote here to support to your point.
 
+> [CRISP++](style-and-phrasing/crisp.md): Really concise and compelling. 
+
 
 ### Link to the full list
 
-> Hey! Loved your work on this case study. I used these [codes](codes.md) while I was editing. Let me know if you have any questions.
+> Hey! Nice work on this case study. I used these [codes](codes.md) while I was editing. Let me know if you have any questions.
 
