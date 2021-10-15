@@ -31,9 +31,9 @@ You don't need to explain the writing principle, because this is encapsulated by
 
 In GitHub, use the code followed by a colon:
 
-> [QUOTE](../quote.md): Consider adding a quote here to support to your point.
+> [QUOTE](flow-and-sections/quote.md): Consider adding a quote here to support to your point.
 
 In Google Docs, use the code then start your feedback on a new line:
 
-> [REPET](../repet.md)
-> Hmm, we've used this word a few times now. Let's try for a synonym.
+>  [REPET](style-and-phrasing/repet.md)
+>  Hmm, we've used this word a few times now. Let's try for a synonym.
