@@ -45,4 +45,4 @@ of respecting readers’ time and intelligence.
 
 * Listen to the [REPET episode](https://openstrategypartners.com/repet-the-osp-editorial-code-podcast-ep-04) of the OSP podcast: [Communicate, Connect, Grow](https://www.youtube.com/channel/UCK1FgQnuVwknf_CWenjZSMw).
 * Check out the full list of [editing codes](codes.md)
-* Learn how to use this code when you're editing with the [How-To Guide](guide.md)
+* Learn how to use this code when you're editing with the [How-To Guide](../guide.md)
