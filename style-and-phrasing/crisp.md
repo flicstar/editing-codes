@@ -1,6 +1,6 @@
 # Code: CRISP
 
-> **CRISP:** Write sentences that are spare and concise. Use occasional longer sentences to vary
+> Write sentences that are spare and concise. Use occasional longer sentences to vary
 > the rhythm of your writing. Aim for active voice, rhythm, and pace. Avoid flowery, 
 > long-winded words and sentences. 
 
@@ -56,5 +56,5 @@ Readers like CRISP sentences because they feel like you're not wasting their tim
 ## Find out more
 
 * Listen to the [CRISP episode](https://openstrategypartners.com/crisp-the-osp-editorial-code-podcast-s1e2) of the OSP podcast: [Communicate, Connect, Grow](https://www.youtube.com/channel/UCK1FgQnuVwknf_CWenjZSMw).
-* Check out the full list of [editing codes](codes.md)
-* Learn how to use this code when you're editing with the [Editing codes quick start quide](https://openstrategypartners.com/editing-codes-quick-start-guide)
+* Check out the full list of [editing codes](../codes.md)
+* Learn how to use this code when you're editing with the [How-To Guide](../guide.md)
