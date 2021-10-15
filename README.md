@@ -4,13 +4,13 @@
 
 Editing shouldn't be a black box. These codes communicate the rationale behind a suggested edit, based on a specific writing guideline.
 
-When reviewing a written piece of content, use a code to support your editorial comment or suggestion. Link back here if you want the writer to understand more about the  guideline underlying a particular code.
+When reviewing a written piece of content, use a code to support your editorial comment or suggestion. 
 
 ## How to use the codes
 
 They are organized into four [editing phases](phases.md) and help you edit consistently. 
 
-See the [Editing codes quick start quide](https://openstrategypartners.com/editing-codes-quick-start-guide) to learn how to use the codes when you're editing.
+See the [How-to Guide](guide.md) to learn how to use the codes when you're editing.
 
 ## Contributing to the codes
 
