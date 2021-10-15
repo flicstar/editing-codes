@@ -33,7 +33,7 @@ makes sense to introduce the speaker of the quote with their full name and their
 When looking at quotes as an editor, the focus is generally on grammar and punctuation. That means referring to the house style guide for decisions about smart 
 (aka “curly”) quotation marks and whether punctuation lies inside or outside the quotation marks. 
 
-As an editor, you’re constantly scanning for tight writing. That means a quote has to provide evidence or support a point the writer is making: decorative quotes are non-essential. This also ties in nicely with another of our favorite editing codes: [CRISP](../../style-and-phrasing/crisp/).
+As an editor, you’re constantly scanning for tight writing. That means a quote has to provide evidence or support a point the writer is making: decorative quotes are non-essential. This also ties in nicely with another of our favorite editing codes: [CRISP](../style-and-phrasing/crisp.md).
 
 ### As a reader, what’s in it for me?
 
