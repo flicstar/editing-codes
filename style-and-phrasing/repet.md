@@ -2,7 +2,7 @@
 
 > Avoid careless repetition — of words, phrases, sections, or concepts. 
 
-The REPET code falls into the Style and Phrasing [phase](https://flicstar.com/editing-guide/phases/) of the editing process. 
+The REPET code falls into the Style and Phrasing [../phase](https://flicstar.com/editing-guide/phases/) of the editing process. 
 
 ## The story behind the code
 
