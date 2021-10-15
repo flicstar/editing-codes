@@ -30,7 +30,7 @@ When reviewing a written piece of content, use a code to support your editorial 
 | Flow                    | RHYTH | Be aware of the length of paragraphs, avoid overly long blocks of text. Stagger length. Create rhythm and visual variation for your reader.  |
 | Structural Aids         | SUBHD | Relevant subheads assist the reader by breaking up copy and defining the purpose of each text block. This is the structural perspective on the code HEAD.                                                                                                                                      |
 | Trust and evidence      | EXMPL | Examples enhance the thesis or claims by helping to create a picture in the readers mind.          |
-| Trust and evidence      | [QUOTE](https://flicstar.com/editing-guide/flow-and-sections/quote/) | Quote your subject matter expert directly wherever possible to build trust, authority, and add interest.   |
+| Trust and evidence      | [QUOTE](flow-and-sections/quote.md) | Quote your subject matter expert directly wherever possible to build trust, authority, and add interest.   |
 | Trust and evidence      | TRUST | Where possible, mention or highlight signals of trust                                                     |
 | Tight Writing           | CASE  | Make sure each point in each paragraph is valid, relevant, and unique.                                     |
 | Tight Writing           | CLUTT | Cut all clutter (no extraneous words, sentences, or paragraphs). If your words do not build the case toward the conclusion or your thesis, they are extraneous. Good writing is often a process of rewriting, and editing with a critical eye. Judge your writing as if someone else wrote it. |
@@ -53,7 +53,7 @@ When reviewing a written piece of content, use a code to support your editorial 
 | Tone                                 | TONE   | Match the tone for the right use case (eg. support versus marketing). Follow client voice guidelines where provided.  |
 | Tone                                 | FUD    | Avoid negative copy and FUD marketing (fear, uncertainty, doubt). We want to make a positive difference in the world. Highlighting the positive, the benefits or USPs a given product offers is far stronger and clearer in our opinion than resorting to criticizing the competition.   |
 | Trust and evidence                   | HYPER  | Avoid hyperbole, exaggeration, binary comparisions (good/bad), and claims you can't back up.   |
-| Tight Writing                        | [CRISP](https://flicstar.com/editing-guide/style-and-phrasing/crisp/)  | Write sentences that are spare and concise. Use occasional longer sentences to vary the rhythm of your writing. Aim for active voice, rhythm, and pace. Avoid flowery, long-winded words and sentences. Color is okay, but be mindful of the difference: “I would like to take this opportunity to extend my most hearty congratulations.” v “Congratulations.”                                       |
+| Tight Writing                        | [CRISP](style-and-phrasing/crisp.md)  | Write sentences that are spare and concise. Use occasional longer sentences to vary the rhythm of your writing. Aim for active voice, rhythm, and pace. Avoid flowery, long-winded words and sentences. Color is okay, but be mindful of the difference: “I would like to take this opportunity to extend my most hearty congratulations.” v “Congratulations.”                                       |
 | Tight Writing                        | REDUN  | Avoid redundant words (e.g. future plans, unexpected surprise, most optimized)    |
 | Inclusive and human-centric language | INCL   | Use inclusive lanaguage to make sure readers feel respected and welcomed. Avoid language that shows prejudice, bias, discrimination, or a lack of sensitivity.<br>Balance use of she/her with he/him in texts. Our preference is for a majority to be she/her. All she/her may be often acceptable; all he/him may not be. "They" can also be acceptable.                                             |
 | Inclusive and human-centric language | JUDG   | Non-violent language. Replace subjective evaluations or judgements with specific outcomes or needs.   |
@@ -64,7 +64,7 @@ When reviewing a written piece of content, use a code to support your editorial 
 | Phrasing                             | FEEL   | Your sentences should create pictures, feelings, emotions for the reader.  |
 | Phrasing                             | DIR    | Use the direct path to the explanation. Avoid longwinded paths to the point.   |
 | Phrasing                             | KISS   | Avoid making points sound needlessly complicated   |
-| Phrasing                             | [REPET](https://flicstar.com/editing-guide/style-and-phrasing/repet/)  | Avoid careless repetition  |
+| Phrasing                             | [REPET](style-and-phrasing/repet.md)  | Avoid careless repetition  |
 | Phrasing                             | FRESH  | Avoid cliches or stale expressions   |
 | Phrasing                             | METPH  | Be consistent if you use a metaphor. Try to carry it through the entire article and/or its logical conclusion.  |
 | Phrasing                             | COLOR  | Color and energy. Choose interesting, exciting ways to express things—but not at the expense of clarity and all the rest :-)  |
