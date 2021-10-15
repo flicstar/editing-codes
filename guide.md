@@ -35,5 +35,3 @@ In GitHub, use the code followed by a colon:
 
 In Google Docs, use the code then start your feedback on a new line:
 
->  [REPET](style-and-phrasing/repet.md)
->  Hmm, we've used this word a few times now. Let's try for a synonym.
