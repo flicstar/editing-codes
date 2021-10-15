@@ -15,12 +15,10 @@ Read more about our [editing workflow](workflow.md).
 
 The first step for an editor doesn't involve writing, but rather, reading. Creative briefs live at the top of every written piece OSP creates, and they make the scope explicitly clear to the editor (or clients, or anyone else!). 
 
-After the editor scans the brief, the second step is to conduct the "Positivity Pass." This is when you read the content through in its entirety, and you make note of the pieces that are particularly well written and that really nail the brief. 
+After the editor scans the brief, the second step is to conduct the "[Positivity Pass](positivity-pass.md)." This is when you read the content through in its entirety, and you make note of the pieces that are particularly well written and that really nail the brief. 
 
 ## Find out more
 
-🎙 Listen to the first episode of the OSP podcast, [Communicate, Connect, Grow](https://www.youtube.com/channel/UCK1FgQnuVwknf_CWenjZSMw), which explains [how we write and edit](https://openstrategypartners.com/how-we-write-and-edit-at-osp-podcast-s1e1) at OSP.
-
 📝 See the full list of [editing codes](codes.md).
 
-👩🏼‍🎓 Learn how to use the codes when you're editing with the [Editing codes quick start quide](https://openstrategypartners.com/editing-codes-quick-start-guide).
+👩🏼‍🎓 Learn how to use the codes when you're editing with the [How-To Guide](guide.md).
