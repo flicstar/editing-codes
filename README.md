@@ -1,6 +1,6 @@
 # Editing Codes
 
-[codes.md](codes.md) is a collection of short, semantic editing marks to use when you're editing a piece of written content.
+These [editing code](codes.md) are a collection of short, semantic editing marks to use when you're editing a piece of written content.
 
 Editing shouldn't be a black box. These codes communicate the rationale behind a suggested edit, based on a specific writing guideline.
 
