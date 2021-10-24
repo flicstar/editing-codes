@@ -34,10 +34,9 @@ You can link to the explainer page for each code as you use it, or you can tell 
 
 > [QUOTE](flow-and-sections/quote.md): Consider adding a quote here to support to your point.
 
-> [CRISP++](style-and-phrasing/crisp.md): Really concise and compelling. 
+> [++CRISP](style-and-phrasing/crisp.md): Really concise and compelling. 
 
 
 ### Link to the full list
 
-> Hey! Nice work on this case study. I used these [codes](codes.md) while I was editing. Let me know if you have any questions.
-
+> Hey! Nice work on this case study. I used these [editing codes](codes.md) while I was reviewing your work. Let me know if you have any questions.
