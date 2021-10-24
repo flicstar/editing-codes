@@ -19,3 +19,14 @@ We've based the editing codes on principles in our Writing Guide. This is a livi
 You can use these codes as-is, or clone this repo and add your own codes to support your in-house style guide. 
 
 ## License
+
+Attribution 4.0 International (CC BY 4.0)
+
+You are free to:
+
+* Share — copy and redistribute the material in any medium or format
+* Adapt — remix, transform, and build upon the material
+
+**Attribution** You must give appropriate credit, provide a link to the license, and indicate if changes were made. 
+
+See the [license](license) or read more on the [Creative Commons page](https://creativecommons.org/licenses/by/4.0/).
